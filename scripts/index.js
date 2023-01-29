@@ -1,6 +1,6 @@
 let main = document.querySelector("main");
 
-const api = new Api1("chernyshevjuv13-12"); // мое уникальное имя!! Использовать свое!
+const api = new Api1("chernyshevjuv"); // мое уникальное имя!! Использовать свое!
 //let api = new Api1("chernyshevjuv213"); // мое уникальное имя!! Использовать свое!
 // cats.forEach(function (cat) {
 //     //let card = `<div class="card" style="background-image: url(${cat.img_link})">
